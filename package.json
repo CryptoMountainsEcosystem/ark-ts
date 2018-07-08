@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "ark-ts",
   "version": "0.3.7",
-  "description": "An ARK API wrapper, written in TypeScript to interact with ARK blockchain.",
+  "description": "A CMT API wrapper, written in TypeScript to interact with CMT blockchain.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkecosystem/ark-ts.git"
+    "url": "git+https://github.com/CryptoMountainsEcosystem/cmt-ts"
   },
   "bugs": {
-    "url": "https://github.com/ArkEcosystem/ark-ts/issues"
+    "url": "https://github.com/CryptoMountainsEcosystem/cmt-ts/issues"
   },
-  "homepage": "https://github.com/ArkEcosystem/ark-ts#readme",
+  "homepage": "https://github.com/CryptoMountainsEcosystem/cmt-ts#readme",
   "keywords": [
     "ark",
     "api",
