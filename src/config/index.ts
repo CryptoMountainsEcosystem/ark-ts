@@ -2,20 +2,20 @@
 
 export default {
   networks: {
-    mainnet: {
+    cmt: {
       bip32: {
       public: 0x043587cf, 
       private: 0x04358394,
       },
 	  name: 'mainnet',
-      nethash: '1ed3644897fe1285d5199d216af52aabd7a8a4f0f55abc0a050456cbc243d3b5',
+      nethash: '20700d78709abd9f48c2c1970eb3202b1076b6dc83b0ed851a9f52dd84c9d1ed',
       token: 'CMT',
       symbol: 'CMT',
       version: 0x1C, // Addresses will begin with 'A'
-      explorer: 'http://159.65.66.127:4200',
+      explorer: 'http://178.128.66.43:4200',
       wif: 0xBB, // Network prefix for wif generation
       activePeer: {
-      ip: '159.65.66.127',
+      ip: '178.128.66.43',
       port: 4100
       },
       peers: [],
