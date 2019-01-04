@@ -70,16 +70,9 @@ For more examples please see documentation or look for tests in each directory.
 npm run test
 ```
 
-## Contributing
-
-  * If you find any bugs, submit an [issue](../../issues) or open [pull-request](../../pulls), helping us catch and fix them.
-  * Engage with other users and developers on [CMT Slack](https://CMT.io/slack/).
-  * Join the #development channel on Slack or contact our developer Lúcio (@lorenzo).
-  * [Contribute bounties](./CONTRIBUTING.md).
-
 ## Credits
 
-**Lúcio Rubens** - [@luciorubeens](https://github.com/luciorubeens);
+- Lorenzo Caruso <lorenzo.caruso@outlook.com>
 
 ## License
 
